@@ -1,0 +1,14 @@
+div {
+  background-color: rgb(255,165,0);
+  box-sizing: border-box;
+  display: inline-block;
+  height: 150px;
+  margin: 15px;
+  padding-top: 5px;
+  padding-left: 9px;
+  width: 300px;
+}
+.is {
+  color: white;
+  background-color: rgb(23,32,42);
+}

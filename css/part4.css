@@ -1,0 +1,11 @@
+div {
+  background-color: rgb(255,165,0);
+  box-sizing: border-box;
+  display: inline-block;
+  margin: 15px;
+  padding:0em 1em 0em 1em;
+}
+.is {
+  color: white;
+  background-color: rgb(23,32,42);
+}
